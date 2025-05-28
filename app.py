@@ -23,7 +23,7 @@ st.sidebar.markdown(
 st.sidebar.markdown("---")
 
 
-openai_api_key = "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"  # use your secret or input
+openai_api_key = "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"  # use your secret or input
 
 nlp = spacy.load("en_core_web_sm")
 
